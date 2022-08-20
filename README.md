@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Timothy</h1>
 <h3 align="center">I am a data engineer</h3>
 
@@ -35,7 +33,7 @@
 
 <h2>About me</h2>
 
-- 🔭 I’m currently working on [an end to end data engineering project](https://github.com/dit-x/end-to-end-DE-project)
+<!-- - 🔭 I’m currently working on [an end to end data engineering project](https://github.com/dit-x/end-to-end-DE-project) -->
 
 - 🌱 I’m currently learning **Kafka**
 
