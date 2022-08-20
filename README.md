@@ -4,11 +4,11 @@
 <h3 align="center">I am a data engineer</h3>
 
 <p align="center">
-&darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr;
+&darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr;
 <br>
-<b> 🔥 I build data pipeline 🔥 </b>
+<b> 🔥 I build scalable data pipeline 🔥 </b>
 <br>
-&darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr;
+&darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr;
 </p>
 
 <p align="center">
