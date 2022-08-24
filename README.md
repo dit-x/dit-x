@@ -21,7 +21,7 @@
 <h2>Tech Stack</h2>
 
 <p align="left">
- <b>🧑🏾‍💻 Programming Language</b>: Python, SQL q
+ <b>🧑🏾‍💻 Programming Language</b>: Python, SQL
 <br> <b>🛠 Data Tool</b>: PySpark, dbt, Airflow, EMR
 <br> <b>🏠 Database</b>: Postgres, Cassandra, DynamoDB
 <br> <b>🏛 Data Warehouse</b>: BigQuery, Redshift, Snowflake
