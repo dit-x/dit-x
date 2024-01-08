@@ -4,7 +4,7 @@
 <p align="center">
 &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr;
 <br>
-<b> 🔥 I build scalable data pipeline 🔥 </b>
+<b> 🔥 I build scalable data pipelines 🔥 </b>
 <br>
 &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; &darr; 
 </p>
