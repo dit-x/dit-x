@@ -31,9 +31,11 @@
 </p>
 
 
+<!--
 <h2>About me</h2>
 
-<!-- - 🔭 I’m currently working on [an end to end data engineering project](https://github.com/dit-x/end-to-end-DE-project) -->
+<!-- - 🔭 I’m currently working on [an end to end data engineering project](https://github.com/dit-x/end-to-end-DE-project) --
+
 
 - 🌱 I’m currently learning **Kafka**
 
@@ -41,6 +43,7 @@
 
 - 👯  I enjoy working with a collaborative team
 
+-->
 <!-- - 👯 I’m looking to collaborate on [Mage AI](https://www.mage.ai/) -->
 
 - 💬 Ask me about **Data Engineering and data infrastructure designs**
